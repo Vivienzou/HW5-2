@@ -11,7 +11,7 @@ Prove by contradiction, meaning assumed n is a prime number so it is not composi
 
 Let a = 2. 
 
-2^n = n (mod n)
+2^n = 2 (mod n)
 
 2^n = nm + 2, where m is any integer
 
