@@ -13,9 +13,9 @@ Let a = 2.
 
 2^n = 2 (mod n)
 
-2^n = nm + 2, where m is any integer
+2^n = nm + 2, where m is any integer 
 
-2^n will always be even number as soon as n > 0 and n is a integer. However, when m is an odd number,
+2^n will always be even number as soon as n > 0 and n is an integer. However, when m is an odd number,
 nm is also an odd number, then nm + 2 is odd.
 
 odd number doesn't equal to even number, so 2^n = nm + 2 does not exist in all situations.
